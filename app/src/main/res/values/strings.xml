@@ -6,7 +6,7 @@
     <!ENTITY trans "Translate">
     ]>
 <resources>
-    <string name="app_name">Virtual Eye - A Blind Aid</string>
+    <string name="app_name">Blind Reader</string>
     <string name="str_ocr">&ocr;</string>
     <string name="str_currency">&curr;</string>
     <string name="str_settings">Settings</string>
